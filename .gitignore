@@ -5,4 +5,10 @@ __pycache__/
 *.log
 node_modules/
 
+# SSH/private keys (ensure not committed)
+git
+git.pub
+*.pem
+.ssh/
+
 
